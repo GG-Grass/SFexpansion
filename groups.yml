@@ -1,0 +1,4 @@
+GG_test:
+    item:
+        name: "&a测试"
+        material: GRASS_BLOCK

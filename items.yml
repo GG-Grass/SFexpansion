@@ -1,0 +1,6 @@
+GG_test_item:
+    item_group: GG_test
+    item:
+        name: "&a这也是个测试"
+        material: DIAMOND
+        
