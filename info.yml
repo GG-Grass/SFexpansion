@@ -1,9 +1,9 @@
-id: example
-name: "示例附属"
+id: GG_Grass
+name: "测试"
 depends: []
 pluginDepends: []
 scriptListener: "script-listener"
 version: "1.0"
-description: "RSC示例附属"
-authors: ["mmmjjkx"]
-repo: "SFexpansion"
+description: "只是一个测试"
+authors: ["GG_Grass"]
+repo: "GG-Grass/SFexpansion"
