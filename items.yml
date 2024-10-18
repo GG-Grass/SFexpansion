@@ -1,4 +1,4 @@
-gg_test_item:
+GG_TEST_ITEM:
     item_group: gg_test
     item:
         name: "&a这也是个测试"
