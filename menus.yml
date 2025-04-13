@@ -1,0 +1,23 @@
+INFINITY_ALL_IN_ONE_MACHINE_1:
+  title: '&9&l无尽锭一体机 &7- &eI'
+  slots:
+    0:
+      name: '&f提示'
+      material_type: mc
+      material: BIRCH_SIGN
+      modelId: 88788
+      glow: true
+      lore:
+      - '&7右侧为输出槽'
+    18:
+      material: gray_stained_glass_pane
+      name: '&a'
+    27:
+      material: gray_stained_glass_pane
+      name: '&a'
+    36:
+      material: gray_stained_glass_pane
+      name: '&a'
+    45:
+      material: gray_stained_glass_pane
+      name: '&a'
