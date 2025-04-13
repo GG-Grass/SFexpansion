@@ -1,17 +1,14 @@
 GG_TEST_MATERIAL_GENERATOR:
-  item_group: gg_test
-  item:
-    name: "&c这还是个测试"
-    material: IRON_BLOCK
-  capacity: 0
-  recipe_type: NULL
-  recipe:
-    1:
-      ...
-  output: [13]
-  outputItem:
-    material_type: mc
-    material: COBBLESTONE
-  tickRate: 5
-  status: 4
-  per: 0
+    item_group: gg_test
+    item:
+        name: "&c这还是个测试"
+        material: IRON_BLOCK
+    capacity: 1
+    recipe_type: NULL
+    output: [13]
+    outputItem:
+        material_type: mc
+        material: COBBLESTONE
+    tickRate: 5
+    status: 4
+    per: 0
