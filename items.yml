@@ -4,3 +4,9 @@ GG_TEST_ITEM:
         name: "&a这也是个测试"
         material: DIAMOND
         
+GG_TEST_ITEM2:
+    item_group: gg_test
+    item:
+        name: "&a这还是个测试"
+        material: DIAMOND
+        
