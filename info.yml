@@ -1,9 +1,9 @@
 id: GG_Grass
-name: "测试"
+name: "test"
 depends: []
 pluginDepends: []
-scriptListener: "script-listener"
 version: "1.0"
 description: "只是一个测试"
-authors: ["GG_Grass"]
+authors: 
+- GG_Grass
 repo: "https://github.com/GG-Grass/SFexpansion"
